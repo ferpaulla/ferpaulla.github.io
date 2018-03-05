@@ -2,6 +2,7 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 body{
     margin:0; /* tira a  margenzinha  que  vem por  padrão*/
 }
@@ -80,6 +81,7 @@ ul {
     padding: 10px 0;
     border-radius: 5px
 }
+
 /* Seção tabela*/
 
 table,th,td{
@@ -100,10 +102,12 @@ th,td{
     margin: 0 auto;
     margin-top: 50px;
 }
+
 form div{
     width: 300px;
     display: inline-block;
 }
+
 form >input,label{
     display: block;
     margin: 10px;
