@@ -1,4 +1,4 @@
-/*Geral*/
+﻿/*Geral*/
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -61,6 +61,7 @@ ul {
 }
 .imagens{
     width: 700px;
+
     margin: 0 auto;
 }
 .imagens img{
